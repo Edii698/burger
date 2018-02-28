@@ -1,0 +1,42 @@
+body {
+    background-color: khaki;
+    font-family: 'Krona One', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #fafafaa1;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.burger {
+    width: 250px;
+}
+
+.devoured {
+    padding: 12px 0px 12px 0px;
+}
+
+#daBurger {
+    border: none;
+    margin-bottom: 10px;
+    width: 25%;
+}
+
+.title {
+    font-family: 'Acme', sans-serif;
+    font-size: 3.75em;
+    color: rgb(224, 12, 12);
+}
